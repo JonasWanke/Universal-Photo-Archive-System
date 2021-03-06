@@ -1,4 +1,4 @@
-# Universal-Photo-Archive-System
+# Universal Photo Archive System
 
 > A CLI for the structured archival of images.
 
